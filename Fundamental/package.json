@@ -1,0 +1,15 @@
+{
+  "name": "fundamental_packages",
+  "version": "1.0.0",
+  "description": "fundamentalPackages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imran007",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  }
+}
